@@ -38,3 +38,11 @@ Basta clonar o repositório e executar a seguinte linha de comando `python3 rafa
 
 # Observações importante
 A resposta para cada uma das 10 questões, exceto a 8 e a 9, estão explícitas tanto no código como no *output*, por exemplo, a função que responde as questões tem o seguinte *template* `print_qn` tendo *n* variando de 1 a 10. Logo, o código está fácil de ser lido e compreendido.
+A questao 8 e 9 nao foram feitas, pois o enunciado nao foi claro quanto ao que era necessario fazer. Ficou confuso.
+
+# Ideia do algoritmo
+O algoritmo consiste em basicamente dividir o código de barras em três partes,
+e cada parte(origem, destino, codigo Loggi, codigo vendedor, tipo produto) 
+sera verificada e armazenda em seus respectivos dicionarios. Depois e feita
+funcoes para responder cada questao, seguindo a logico dos dicionarios
+de conseguir o valor de sua respectiva chave.
