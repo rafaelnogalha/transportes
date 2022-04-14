@@ -1,8 +1,8 @@
 # Informações Inicias
 - Autor: Rafael Henrique Nogalha de Lima
-- Universidade: Universidade de Brasilia
-- Curso: Ciencia da Computacao
-- Semestre atual: 6
+- Universidade: Universidade de Brasília
+- Curso: Ciência da Computação
+- Semestre atual(momento da ciração do programa): 6
 
 
 # O leitor de código de barras da Loggi
