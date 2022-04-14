@@ -1,3 +1,10 @@
+# Informações Inicias
+- Autor: Rafael Henrique Nogalha de Lima
+- Universidade: Universidade de Brasilia
+- Curso: Ciencia da Computacao
+- Semestre atual: 6
+
+
 # O leitor de código de barras da Loggi
 A Loggi está em constante expansão e precisa da sua ajuda para conectar o Brasil.
 O processo de separação de pacotes acontece de modo automático, uma esteira
