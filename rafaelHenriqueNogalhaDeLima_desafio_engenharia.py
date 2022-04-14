@@ -1,5 +1,20 @@
-import re
+"""
+Autor: Rafael Henrique Nogalha de Lima
+Universidade: Universidade de Brasilia
+Curso: Ciencia da Computacao
+Semestre atual: 6
 
+Ideia do algoritmo:
+O algoritmo consiste em basicamente dividir o código de barras em três partes,
+e cada parte(origem, destino, codigo Loggi, codigo vendedor, tipo produto) 
+sera verificada e armazenda em seus respectivos dicionarios. Depois e feita
+funcoes para responder cada questao, seguindo a logico dos dicionarios
+de conseguir o valor de sua respectiva chave.
+
+Observacao Importante:
+A questao 8 e 9 nao foram feitas, pois o enunciado nao foi claro quanto ao 
+que era necessario fazer. Ficou um pouco confuso
+"""
 from textwrap import wrap
 
 global i
