@@ -4,6 +4,8 @@ from textwrap import wrap
 
 global i
 
+# DICIONARIOS DINAMICOS
+
 dict_regiao_origem = { }
 
 dict_regiao_destino = { }
@@ -34,6 +36,7 @@ dict_soma_regiao_destino = {
 dict_pacote_regiao_sul = { }
 
 dict_destino_por_tipo = { }
+
 
 def main():
     i = 0
